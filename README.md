@@ -3,6 +3,9 @@
 Bu repo [Kodluyoruz](https://academy.patika.dev/tr/paths/baslangic-seviye-php-ile-backend-web-development-patikasi) Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ------------------------------------------------------
+![Örnek Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
+------------------------------------------------------
 
 ## Installation
 
